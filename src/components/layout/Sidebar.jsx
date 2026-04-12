@@ -14,7 +14,7 @@ export default function Sidebar() {
     }`;
 
   return (
-    <aside className="h-screen flex w-64 flex-col bg-gray-900 p-4 text-white">
+    <aside className="flex w-64 flex-col bg-gray-900 p-4 text-white">
       <div className="mb-6 border-b border-gray-800 pb-4">
         <h1 className="text-xl font-semibold tracking-tight">StockFlow</h1>
       </div>
