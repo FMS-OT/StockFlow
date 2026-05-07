@@ -11,8 +11,6 @@ A professional admin dashboard for managing products, categories, and sales.
 - Responsive sidebar and navigation
 - Form validation with Zod
 - Loading, empty, and error states
-- Products management
-- Categories management
 - Sales tracking
 - Search / Filter / Sort
 - Responsive layout
