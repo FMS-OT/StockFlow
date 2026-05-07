@@ -1,0 +1,172 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Phones"
+    },
+    {
+      "id": "2",
+      "name": "Laptops"
+    },
+    {
+      "id": "3",
+      "name": "Accessories"
+    },
+    {
+      "id": "4",
+      "name": "Clothing"
+    },
+    {
+      "id": "5",
+      "name": "Home & Kitchen"
+    },
+    {
+      "id": "6",
+      "name": "Gaming"
+    }
+  ],
+  "products": [
+    {
+      "name": "iPhone 15",
+      "price": 1240,
+      "image": "https://placehold.co/100x100",
+      "categoryId": "1",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S24",
+      "price": 1050,
+      "image": "https://placehold.co/100x100",
+      "categoryId": "1"
+    },
+    {
+      "id": "3",
+      "name": "Google Pixel 8",
+      "price": 850,
+      "image": "https://placehold.co/100x100",
+      "categoryId": "1"
+    },
+    {
+      "id": "4",
+      "name": "MacBook Air M2",
+      "price": 1400,
+      "image": "https://placehold.co/100x100",
+      "categoryId": "2"
+    },
+    {
+      "id": "5",
+      "name": "Dell XPS 13",
+      "price": 1300,
+      "image": "https://placehold.co/100x100",
+      "categoryId": "2"
+    },
+    {
+      "id": "6",
+      "name": "Lenovo ThinkPad X1",
+      "price": 1550,
+      "image": "https://placehold.co/100x100",
+      "categoryId": "2"
+    },
+    {
+      "id": "7",
+      "name": "Wireless Headphones",
+      "price": 220,
+      "image": "https://placehold.co/100x100",
+      "categoryId": "3"
+    },
+    {
+      "id": "8",
+      "name": "Smart Watch",
+      "price": 300,
+      "image": "https://placehold.co/100x100",
+      "categoryId": "3"
+    },
+    {
+      "id": "9",
+      "name": "USB-C Hub",
+      "price": 45,
+      "image": "https://placehold.co/100x100",
+      "categoryId": "3"
+    },
+    {
+      "id": "10",
+      "name": "Classic T-Shirt",
+      "price": 25,
+      "image": "https://placehold.co/100x100",
+      "categoryId": "4"
+    },
+    {
+      "id": "11",
+      "name": "Men Hoodie",
+      "price": 50,
+      "image": "https://placehold.co/100x100",
+      "categoryId": "4"
+    },
+    {
+      "id": "12",
+      "name": "Denim Jacket",
+      "price": 75,
+      "image": "https://placehold.co/100x100",
+      "categoryId": "4"
+    },
+    {
+      "id": "13",
+      "name": "Coffee Maker",
+      "price": 130,
+      "image": "https://placehold.co/100x100",
+      "categoryId": "5"
+    },
+    {
+      "id": "14",
+      "name": "Kitchen Blender",
+      "price": 90,
+      "image": "https://placehold.co/100x100",
+      "categoryId": "5"
+    },
+    {
+      "id": "15",
+      "name": "Desk Lamp",
+      "price": 55,
+      "image": "https://placehold.co/100x100",
+      "categoryId": "5"
+    },
+    {
+      "id": "16",
+      "name": "Gaming Mouse",
+      "price": 65,
+      "image": "https://placehold.co/100x100",
+      "categoryId": "6"
+    },
+    {
+      "id": "17",
+      "name": "Mechanical Keyboard",
+      "price": 120,
+      "image": "https://placehold.co/100x100",
+      "categoryId": "6"
+    },
+    {
+      "id": "18",
+      "name": "Gaming Chair",
+      "price": 260,
+      "image": "https://placehold.co/100x100",
+      "categoryId": "6"
+    },
+    {
+      "id": "19",
+      "name": "iPad Air",
+      "price": 700,
+      "image": "https://placehold.co/100x100",
+      "categoryId": "1"
+    },
+    {
+      "id": "20",
+      "name": "External SSD 1TB",
+      "price": 150,
+      "image": "https://placehold.co/100x100",
+      "categoryId": "3"
+    }
+  ],
+  "sales": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}

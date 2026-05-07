@@ -8,7 +8,7 @@ export default function KpiCard({ title, value, Icon, color }) {
       <div className="flex items-center justify-between">
         <p className="text-sm text-gray-500">{title}</p>
         <div className={`p-2 ${color} transition rounded`}>
-          <Icon size={18} />
+          {Icon && <Icon size={18} />}
         </div>
       </div>
 

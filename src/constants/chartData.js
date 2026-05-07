@@ -1,4 +1,4 @@
-export const salesData = [
+export const chartData = [
   { month: "Jan", sales: 4000 },
   { month: "Feb", sales: 3000 },
   { month: "Mar", sales: 5000 },

@@ -1,15 +1,17 @@
 import { Package, Layers, ShoppingCart, DollarSign } from "lucide-react";
+import { categories } from "../constants/categories";
+import { products } from "../constants/products";
 export const kpiData = [
   {
     title: "Total Products",
-    value: 123,
+    value: products.length,
     icon: Package,
     color:
       "bg-blue-100 text-blue-600 group-hover:bg-blue-200 group-hover:text-blue-700",
   },
   {
     title: "Total Categories",
-    value: 8,
+    value: categories.length,
     icon: Layers,
     color:
       "bg-purple-100 text-purple-600 group-hover:bg-purple-200 group-hover:text-purple-700 ",
