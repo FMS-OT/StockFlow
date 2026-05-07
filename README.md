@@ -4,7 +4,13 @@ A professional admin dashboard for managing products, categories, and sales.
 
 ## Features
 
-- Dashboard analytics
+- Interactive analytics dashboard
+- Product and category management
+- Sales monitoring and KPIs
+- Search, filter, sort, and pagination
+- Responsive sidebar and navigation
+- Form validation with Zod
+- Loading, empty, and error states
 - Products management
 - Categories management
 - Sales tracking
@@ -25,6 +31,18 @@ A professional admin dashboard for managing products, categories, and sales.
 - Zod
 - Recharts
 - Lucide React
+
+## Preview
+
+### Dashboard
+![Dashboard Preview](./public/dashboard-preview.png)
+
+## Architecture
+
+- Reusable UI components
+- Context-based state management
+- Organized services and hooks structure
+- Scalable folder architecture
 
 ## Live Demo
 
